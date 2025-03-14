@@ -116,6 +116,10 @@ um valor que muda, não permanece
 tipos de dados
 considerar palavras reservadas ao definir/declarar as variáveis do meu programa
 
+TIPOS DE DADOS
+SCANF() realiza a leitura dos dados da entrada padrão (no caso o teclado)
+scanf("tipo de entrada", lista de variáveis)
+
 
 
 
