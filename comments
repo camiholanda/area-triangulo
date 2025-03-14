@@ -17,25 +17,6 @@ UMA VEZ CONCEBIDA UMA SOLUÇÃO ALGORÍTMICA PARA UM PROBLEMA, ESTA PODE SER TRA
 3. QUAIS SERÃO OS DADOS DE SAÍDA?
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // FUNDAMENTOS DE PROGRAMAÇÃO
 
 // DOMINAR LINGUAGEM DE PROGRAMAÇÃO TEXTUAL
@@ -120,6 +101,20 @@ código aberto, customizável, manutenção por comunidade de programadores
 
 monousuário x multiusuário
 
+// AULA FUNDAMENTOS DE PROGRAMAÇÃO 
+// LINGUAGENS DE PROGRAMAÇÃO 
+
+CADA MÁQUINA TEM SEU COMPILADOR PRÓPRIO
+--------------- NA MADRUGADA ENQUANTO DORMIMOS, COISAS ESTRANHAS ESTÃO ACONTECENDO -----------------
+
+PRA QUE SERVE LING. C? 
+REQUISITOS DE MEMÓRIA, DESEMPENHO LIMITADO, SISTEMA DE ALTO DESEMPENHO, PROGRAMAR FAZENDO USO EFICIENTE
+LINGUAGEM PRÓXIMA AO COMPUTADOR, QUE SE PREOCUPA COM A PARTE FÍSICA
+
+VARIÁVEIS
+um valor que muda, não permanece
+tipos de dados
+considerar palavras reservadas ao definir/declarar as variáveis do meu programa
 
 
 
